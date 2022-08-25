@@ -25,6 +25,10 @@
   I WANT to create notes or code snippets with or without an internet connection
   
   SO THAT I can reliably retrieve them for later use
+
+   ## Screenshots
+
+  ![Application Preview](./assets/images/text-editor.jpg?raw=true "landing page")
   
   ## Installation
   to install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json. 
